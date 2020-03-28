@@ -13,13 +13,13 @@ import UserForm from './UserForm';
 import UserList from "./UserList";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDWB65SPnAPyyZHuSGkjNUHeRsg-5I88kA",
-  authDomain: "yourapp-84ed3.firebaseapp.com",
-  databaseURL: "https://yourapp-84ed3.firebaseio.com",
-  projectId: "yourapp-84ed3",
-  storageBucket: "yourapp-84ed3.appspot.com",
-  messagingSenderId: "1017023987397",
-  appId: "1:1017023987397:web:a6aea57f53c0ed77ad3aac"
+  apiKey: "",
+  authDomain: ",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 firebase.initializeApp(firebaseConfig);
